@@ -3,6 +3,7 @@ delete from Taco_Ingredients;
 delete from Taco;
 delete from Taco_Order;
 
+-- TODO: How to prepopulate H2 embedded DB with ingredient data???
 delete from Ingredient;
 insert into Ingredient (id, name, type)
                 values ('FLTO', 'Flour Tortilla', 'WRAP');

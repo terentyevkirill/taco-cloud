@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="879f5095-e93c-4bcb-8c9d-90232a61191f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Ingredient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Taco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Taco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/IngredientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/IngredientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/JdbcIngredientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/JdbcOrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/JdbcTacoRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/TacoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/TacoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/web/DesignTacoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/web/DesignTacoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/web/IngredientByIdConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/web/IngredientByIdConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taco-cloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taco-cloud.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Ingredient$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Ingredient$Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Ingredient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Ingredient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Taco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/Taco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/IngredientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/IngredientRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/JdbcIngredientRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/JdbcOrderRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/JdbcTacoRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/OrderRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/TacoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/data/TacoRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/web/DesignTacoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/web/DesignTacoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/web/IngredientByIdConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/web/IngredientByIdConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/web/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/terentiev/tacocloud/web/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="140">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -101,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -142,15 +108,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/web/WebConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -177,7 +134,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/terentiev/tacocloud/HomeControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/DesignTacoController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/IngredientRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/data.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/JdbcIngredientRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/data/JdbcOrderRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/web/OrderController.java" />
@@ -197,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/design.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/data.sql" />
       </list>
     </option>
   </component>
@@ -301,7 +258,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566130182374" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566130353414" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -400,7 +357,7 @@
       <workItem from="1565881897129" duration="397000" />
       <workItem from="1565882318713" duration="822000" />
       <workItem from="1566038168499" duration="6936000" />
-      <workItem from="1566126271608" duration="3790000" />
+      <workItem from="1566126271608" duration="4078000" />
     </task>
     <servers />
   </component>
@@ -422,7 +379,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36852000" />
+    <option name="totallyTimeSpent" value="37140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,9 +391,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="-7" width="782" height="878" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.466759" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.2261745" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.457047" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -450,7 +408,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32971507" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32841823" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32885906" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32971507" />
@@ -713,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/terentiev/tacocloud/Ingredient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -727,10 +678,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="140">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
